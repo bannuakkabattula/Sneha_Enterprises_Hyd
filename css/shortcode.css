@@ -4046,12 +4046,12 @@ blockquote p {
 }
 
 .site-footer .pbmit-two-column-menu.widget ul {
-	display: flex;
+	display: block;
 	flex-wrap: wrap;
 }
 
 .site-footer .pbmit-two-column-menu.widget ul>li {
-	width: 50%;
+	width: 70%;
 	line-height: 20px;
 	padding: 0 0 10px 0;
 }
