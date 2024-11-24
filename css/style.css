@@ -1241,7 +1241,7 @@
 }
 
 .service-sidebar .widget:last-child {
-    background-color: transparent;
+    background-color: #000000;
     margin-bottom: 0px;
     padding: 0;
     border: none;
@@ -1748,7 +1748,7 @@
 }
 
 .widget.pbmit-service-ad {
-    background-image: url(../images/bg/ads-bg-img.png);
+    background-image: url(../images/nets-images/our-infrastructure.png);
     background-size: cover;
     background-position: center center;
     background-color: var(--pbmit-blackish-color);
