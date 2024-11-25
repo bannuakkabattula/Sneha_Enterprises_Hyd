@@ -6536,3 +6536,7 @@ blockquote p {
 	line-height: 18px;
 	color: var(--pbmit-blackish-color);
 }
+
+.service-single-img-01 img {
+	width: 100%;
+}
