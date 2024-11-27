@@ -2767,3 +2767,28 @@ form textarea.form-control {
 
     left: 60px !important;
 }
+
+.wa-chat-box-brand-name {
+    color: #151515;
+}
+
+.wa-chat-box-brand-subtitle {
+    color: #151515;
+}
+
+.wa-chat-box-brand {
+    border-radius: 0;
+    box-shadow: none;
+
+}
+
+.wa-chat-bubble-close-btn {
+    box-shadow: #000 3px 1px 10px;
+    border-radius: 63%;
+    background: #969696;
+    padding: 1px;
+}
+
+.wa-chat-box-brand {
+    border-radius: 0;
+}
