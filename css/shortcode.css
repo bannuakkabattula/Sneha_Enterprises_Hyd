@@ -4134,7 +4134,7 @@ blockquote p {
 /*----------------------------------------*/
 .pbmit-title-bar-wrapper {
 	background-color: var(--pbmit-light-color);
-	background-image: url(../images/nets-images/timeline.png);
+	background-image: url(../images/nets-images/timeline.webp);
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	background-size: cover;

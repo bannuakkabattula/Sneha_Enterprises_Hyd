@@ -159,7 +159,7 @@
 }
 
 .about-one-left-bg {
-    background-image: url(../images/nets-images/about.png);
+    background-image: url(../images/nets-images/about.webp);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -772,7 +772,7 @@
 }
 
 .faq-four-bg-img {
-    background-image: url(../images/nets-images/faq.png);
+    background-image: url(../images/nets-images/faq.webp);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2760,4 +2760,10 @@ form textarea.form-control {
 
 .pbminfotech-post-item {
     margin-bottom: 25px;
+}
+
+#wa-widget-send-button {
+    bottom: 70px !important;
+
+    left: 60px !important;
 }
