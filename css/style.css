@@ -2765,7 +2765,8 @@ form textarea.form-control {
 #wa-widget-send-button {
     bottom: 70px !important;
 
-    left: 60px !important;
+    right: 20px !important;
+    left: auto !important;
 }
 
 .wa-chat-box-brand-name {
@@ -2791,4 +2792,10 @@ form textarea.form-control {
 
 .wa-chat-box-brand {
     border-radius: 0;
+}
+
+@media screen and (max-width:576px) {
+    .pbmit-title-bar-wrapper-contact {
+        background-position: left;
+    }
 }

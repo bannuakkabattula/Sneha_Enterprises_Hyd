@@ -3959,6 +3959,7 @@ blockquote p {
 	background-attachment: scroll;
 	color: var(--pbmit-white-color);
 	overflow: hidden;
+
 }
 
 .site-footer .pbmit-footer-big-area .pbmit-footer-logo img {
@@ -4145,6 +4146,23 @@ blockquote p {
 }
 
 .pbmit-title-bar-wrapper,
+.pbmit-title-bar-content {
+	min-height: 450px;
+}
+
+.pbmit-title-bar-wrapper-contact {
+	background-color: var(--pbmit-light-color);
+	background-image: url(../images/bg/contactus.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-size: cover;
+	background-attachment: scroll;
+	position: relative;
+	z-index: 2;
+	padding-top: 40px;
+}
+
+.pbmit-title-bar-wrapper-contact,
 .pbmit-title-bar-content {
 	min-height: 450px;
 }
@@ -5178,7 +5196,7 @@ blockquote p {
 * ---------------------------------------*/
 /** Style 1 **/
 .pbmit-marquee-effect-style-1 .pbmit-element-title {
-	font-size: 90px;
+	font-size: 40px;
 	line-height: 120px;
 	position: relative;
 	overflow: visible;
@@ -5226,7 +5244,7 @@ blockquote p {
 	position: absolute;
 	left: -5px;
 	top: 50%;
-	font-size: 60px;
+	font-size: 40px;
 	line-height: 60px;
 	transform: translateY(-50%);
 	color: var(--pbmit-global-color);
