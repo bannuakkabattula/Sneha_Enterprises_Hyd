@@ -2799,3 +2799,16 @@ form textarea.form-control {
         background-position: left;
     }
 }
+
+.border-rounded {
+    border-radius: 15px;
+}
+
+.location-titles {
+    border: 2px solid gray;
+    padding: 8px;
+    border-radius: 8px;
+    width: fit-content;
+    max-width: 100%;
+    min-width: 70%;
+}
