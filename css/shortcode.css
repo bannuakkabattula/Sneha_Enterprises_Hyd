@@ -4663,7 +4663,7 @@ blockquote p {
 
 /** Slider 01 **/
 .pbmit-slider-one {
-	margin-top: 25px;
+	/* margin-top: 25px; */
 	border-radius: 30px;
 	overflow: hidden;
 }
