@@ -2794,6 +2794,10 @@ form textarea.form-control {
     border-radius: 0;
 }
 
+.wa-chat-box {
+    right: 30px !important;
+}
+
 @media screen and (max-width:576px) {
     .pbmit-title-bar-wrapper-contact {
         background-position: left;
@@ -2811,4 +2815,9 @@ form textarea.form-control {
     width: fit-content;
     max-width: 100%;
     min-width: 70%;
+}
+
+
+.pbmit-progress-wrap {
+    display: none !important;
 }
