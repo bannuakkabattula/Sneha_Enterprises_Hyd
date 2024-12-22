@@ -45,7 +45,7 @@
 				var val_center = $(this).data('center');
 				var style = $(this).data('effect');
 				var loopSlide = null;
-				var sl_speed = 3000; 
+				var sl_speed = 6000; 
 
 				carouselElement.addClass( 'pbmit-element-viewtype-carousel-' + x );
 
