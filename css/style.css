@@ -2827,6 +2827,10 @@ form textarea.form-control {
         padding-top: 32px;
     }
 
+         .pb-lg-4 {
+             padding-top: 32px;
+         }
+
     .fs-large {
         font-size: 24px !important;
     }
