@@ -2821,3 +2821,9 @@ form textarea.form-control {
 .pbmit-progress-wrap {
     display: none !important;
 }
+
+@media screen and (min-width:1024px) {
+    .pt-lg-4{
+        padding-top: 32px;
+    }
+}
