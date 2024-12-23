@@ -1870,7 +1870,7 @@ body {
 		top: 5px;
 		color: var(--pbmit-blackish-color);
    }
-	.main-menu ul > li.dropdown > a:after{
+	/* .main-menu ul > li.dropdown > a:after{
 		content: "";
 		position: absolute;
 		right: -29px;
@@ -1884,7 +1884,7 @@ body {
 		height: 6px;
 		background-color: var(--pbmit-global-color);
 		border-radius: 50%;
-	}
+	} */
 	.header-style-1 .sticky-header .pbmit-main-header-area{
 		margin: 0;
 	}
