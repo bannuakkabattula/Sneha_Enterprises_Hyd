@@ -2856,5 +2856,9 @@ form textarea.form-control {
 
 .pbmit-testimonial-style-2 {
     border-radius: 22px !important;
-    min-height:80px;
+    min-height: 80px;
+}
+
+.border-black {
+    border: 2px solid black;
 }
