@@ -165,7 +165,7 @@
     background-size: cover;
     margin: 0px 20px 0px 40px;
     border-radius: 30px;
-    height: 100%;
+    height: 68%;
 }
 
 .about-one-content {
@@ -1117,6 +1117,8 @@
 
 .pbmit-element-timeline-style-1 .pbmit-feature-image img {
     border-radius: 30px;
+    width: 266px;
+    height: 167px;
 }
 
 .pbmit-element-timeline-style-1 .steps-dot,
@@ -2827,11 +2829,32 @@ form textarea.form-control {
         padding-top: 32px;
     }
 
-         .pb-lg-4 {
-             padding-top: 32px;
-         }
+    .pb-lg-4 {
+        padding-top: 32px;
+    }
 
     .fs-large {
         font-size: 24px !important;
     }
+}
+
+.aboutRPadding {
+    padding: 55px;
+}
+
+.bg-blueColor {
+    background: #001837;
+}
+
+.text-white {
+    color: white !important;
+}
+
+.text-white li span {
+    color: white;
+}
+
+.pbmit-testimonial-style-2 {
+    border-radius: 22px !important;
+    min-height:80px;
 }

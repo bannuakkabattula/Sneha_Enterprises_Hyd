@@ -3664,8 +3664,8 @@ body.rtl .pbmit-blog-style-3 .pbmit-blog-btn-wrap {
 }
 
 .pbmit-testimonial-style-2 .pbmit-featured-wrapper {
-	border-radius: 50px 50px 0 0px;
-	padding: 8px 8px 0 8px;
+	border-radius: 100%;
+	padding: 8px 8px 8px 8px;
 	background-color: var(--pbmit-white-color);
 	border: 1px solid #e5e5e5;
 	border-bottom: none;
@@ -3673,7 +3673,7 @@ body.rtl .pbmit-blog-style-3 .pbmit-blog-btn-wrap {
 }
 
 .pbmit-testimonial-style-2 .pbmit-featured-wrapper::before,
-.pbmit-testimonial-style-2 .pbmit-featured-wrapper::after {
+/* .pbmit-testimonial-style-2 .pbmit-featured-wrapper::after {
 	content: "";
 	position: absolute;
 	bottom: 0;
@@ -3683,7 +3683,7 @@ body.rtl .pbmit-blog-style-3 .pbmit-blog-btn-wrap {
 	border-top: none;
 	background-color: transparent;
 	box-shadow: 0 20px 0 0 var(--pbmit-white-color);
-}
+} */
 
 .pbmit-testimonial-style-2 .pbmit-featured-wrapper::before {
 	border-radius: 0 0 30px 0;
