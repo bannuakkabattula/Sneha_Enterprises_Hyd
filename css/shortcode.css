@@ -5203,7 +5203,12 @@ blockquote p {
 	overflow: visible;
 	display: flex;
 	overflow: visible;
-	text-shadow: 1px 1px 0 rgba(var(--pbmit-blackish-color-rgb), .2), -1px -1px 0 rgba(var(--pbmit-blackish-color-rgb), .2), 1px -1px 0 rgba(var(--pbmit-blackish-color-rgb), .2), -1px 1px 0 rgba(var(--pbmit-blackish-color-rgb), .2), 1px 1px 0 rgba(var(--pbmit-blackish-color-rgb), .2);
+
+	text-shadow: 1px 1px 0 rgb(0 12 27 / 20%),
+		-1px -1px 0 rgb(0 0 0 / 20%),
+		1px -1px 0 rgb(0 0 0 / 20%),
+		-1px 1px 0 rgb(9 4 4),
+		1px 1px 0 rgb(255 255 255 / 28%);
 	-webkit-text-fill-color: var(--pbmit-white-color);
 	-webkit-text-stroke-width: 0;
 	color: transparent;
