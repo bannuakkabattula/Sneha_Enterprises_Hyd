@@ -2877,7 +2877,7 @@ form textarea.form-control {
     position: fixed;
     right: 1.2rem;
     bottom: 8.5rem;
-    background: #ec8b00;
+    background: #ff3700;
     width: 3rem;
     height: 3rem;
     padding: 1rem;
@@ -2945,4 +2945,8 @@ span.num {
 .funFactText {
     color: transparent;
     -webkit-text-stroke: 1px var(--pbmit-blackish-color);
+}
+
+.wa-chat-box {
+    right: 30px !important;
 }
