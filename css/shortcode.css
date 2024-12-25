@@ -3644,6 +3644,7 @@ body.rtl .pbmit-blog-style-3 .pbmit-blog-btn-wrap {
 
 /** Style 2 **/
 .pbmit-testimonial-style-2 .pbminfotech-post-item {
+	min-height: 490px;
 	position: relative;
 	padding: 70px 70px 50px 70px;
 	border-radius: 30px;
