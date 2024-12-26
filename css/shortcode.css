@@ -2338,7 +2338,7 @@ blockquote,
 .pbmit-service-style-1 .pbminfotech-post-item {
 	border-radius: 30px;
 	border: 1px solid rgba(var(--pbmit-blackish-color-rgb), 0.15);
-    box-shadow: 2px 0px 6px -1px #cbcbcb;
+	box-shadow: 2px 0px 6px -1px #cbcbcb;
 }
 
 .knowMoreBtn {
@@ -6573,4 +6573,10 @@ blockquote p {
 
 .service-single-img-01 img {
 	width: 100%;
+	border-radius: 30px;
+}
+
+.manyMoreBtn {
+	order: 2px solid #b3b3b3;
+	border-radius: 23px;
 }
