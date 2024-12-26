@@ -2338,6 +2338,16 @@ blockquote,
 .pbmit-service-style-1 .pbminfotech-post-item {
 	border-radius: 30px;
 	border: 1px solid rgba(var(--pbmit-blackish-color-rgb), 0.15);
+    box-shadow: 2px 0px 6px -1px #cbcbcb;
+}
+
+.knowMoreBtn {
+
+	border: 1px solid #001837;
+	width: fit-content;
+	padding: 5px 10px;
+	max-width: 100%;
+	border-radius: 5px;
 }
 
 .pbmit-service-style-1 .pbmit-featured-wrapper {
