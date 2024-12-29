@@ -2361,7 +2361,7 @@ body {
 	}
 
 	.header-style-1 {
-		background-color: var(--pbmit-light-color);
+		background-color: #fff;
 		/* padding: 30px 40px 0 40px; */
 	}
 
@@ -2688,7 +2688,7 @@ body {
 
 @media (min-width: 1201px) and (max-width: 1500px) {
 	.header-style-1 {
-		padding: 30px 0 0 0;
+		padding: 0 0 0 0;
 	}
 
 	.header-style-1 .main-menu .navigation>li {
