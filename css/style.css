@@ -2950,3 +2950,21 @@ span.num {
 .wa-chat-box {
     right: 30px !important;
 }
+
+.pbmit-title::before {
+    content: "";
+    background: blue;
+    width: 5px;
+    left: 100px;
+}
+
+.payment-widget{
+        grid-column-gap: 16px;
+        grid-row-gap: 13px;
+        grid-template-rows: auto auto;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-auto-columns: 1fr;
+        margin-top: 24px;
+        display: grid;
+        margin-bottom: 10px;
+}
