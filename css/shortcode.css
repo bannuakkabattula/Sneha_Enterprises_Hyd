@@ -4322,6 +4322,24 @@ blockquote p {
 	font-family: var(--pbmit-heading-typography-font-family);
 }
 
+@media screen and (max-width:769px) {
+	.accordion-button {
+		padding: 14px 56px 14px 18px;
+		border-radius: 5px !important;
+	}
+
+	.accordion-body {
+		padding: 20px 20px !important;
+	}
+}
+
+@media (max-width: 769px) {
+	.faq-four-area {
+		padding: 20px 18px;
+	}
+}
+
+
 .accordion-button:not(.collapsed) {
 	box-shadow: none;
 	color: var(--pbmit-white-color);

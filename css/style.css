@@ -2960,6 +2960,12 @@ span.num {
     margin-left: 15px;
 }
 
+@media screen and (max-width:1024px) {
+    .title-line {
+        display: none;
+    }
+}
+
 
 .payment-widget {
     grid-column-gap: 16px;
