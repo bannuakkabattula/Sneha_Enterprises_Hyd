@@ -3960,9 +3960,9 @@ blockquote p {
 .site-footer {
 	font-size: 14px;
 	position: relative;
-	margin: 0 40px;
+	margin: 0 0;
 	padding-top: 30px;
-	border-radius: 30px;
+	border-radius: 0px;
 	background-image: url(../images/bg/footer-bg-img.png);
 	background-repeat: no-repeat;
 	background-position: left bottom;
@@ -6601,4 +6601,10 @@ blockquote p {
 
 .footerSeparator {
 	margin-top: 30px;
+}
+
+@media screen and (max-width:576px) {
+	#about {
+		padding-top: 20px;
+	}
 }
