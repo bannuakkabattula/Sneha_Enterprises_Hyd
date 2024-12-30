@@ -6607,4 +6607,7 @@ blockquote p {
 	#about {
 		padding-top: 20px;
 	}
+	.pbmit-sortable-list{
+		display: none;
+	}
 }
