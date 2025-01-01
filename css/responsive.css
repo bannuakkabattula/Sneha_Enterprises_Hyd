@@ -2942,4 +2942,14 @@ body {
 	.faq-four-area {
 		border-radius: 0px !important;
 	}
+
+	.mbResOurLocation {
+		display: flex !important;
+		flex-direction: row;
+		flex-wrap: initial !important;
+	}
+
+	.mbResOurLocation li {
+		margin-right: 9px;
+	}
 }
