@@ -476,7 +476,7 @@ body {
 		height: 100%;
 		display: block;
 		z-index: 99;
-		background: rgba(0, 0, 0, .9);
+		/* background: rgba(0, 0, 0, .9); */
 		-webkit-transform: translateX(101%);
 		-ms-transform: translateX(101%);
 		transform: translateX(101%);
