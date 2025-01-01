@@ -2929,7 +2929,17 @@ body {
 		width: 196px !important;
 		margin-right: 10px !important;
 	}
-	.mb-text-center{
+
+	.mb-text-center {
 		text-align: center;
+	}
+
+	.site-footer {
+		border-radius: 0px !important;
+		margin-top: 30px;
+	}
+
+	.faq-four-area {
+		border-radius: 0px !important;
 	}
 }
