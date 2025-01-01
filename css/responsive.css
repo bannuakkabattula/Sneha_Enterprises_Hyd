@@ -2929,4 +2929,7 @@ body {
 		width: 196px !important;
 		margin-right: 10px !important;
 	}
+	.mb-text-center{
+		text-align: center;
+	}
 }
