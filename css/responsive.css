@@ -2963,10 +2963,28 @@ body {
 		margin-bottom: 10px !important;
 	}
 
+	.pbmit-footer-widget-area .pbmit-social-links li.pbmit-social-li a img {
+		width: 34px;
+	}
+
 }
 
 @media screen and (min-width:1024px) {
 	.ourPreviousWokrs {
 		padding-top: 20px;
+	}
+}
+
+.pbmit-footer-widget-area .pbmit-social-links li.pbmit-social-li a img {
+	width: 34px !important;
+}
+
+.mt-45 {
+	margin-top: 45px;
+}
+
+@media screen and (min-width:1201px) {
+	.pbmit-footer-widget-col-1 {
+		padding-left: 44px;
 	}
 }
