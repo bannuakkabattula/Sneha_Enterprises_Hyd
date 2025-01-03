@@ -2952,4 +2952,21 @@ body {
 	.mbResOurLocation li {
 		margin-right: 9px;
 	}
+
+	.service-sidebar {
+		display: flex;
+		flex-direction: column-reverse;
+		gap: 40px;
+	}
+
+	.mobileViewmb-2 {
+		margin-bottom: 10px !important;
+	}
+
+}
+
+@media screen and (min-width:1024px) {
+	.ourPreviousWokrs {
+		padding-top: 20px;
+	}
 }
