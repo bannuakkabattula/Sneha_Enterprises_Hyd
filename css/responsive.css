@@ -2967,6 +2967,14 @@ body {
 		width: 34px;
 	}
 
+	.manyMoreBtn {
+		height: 346px;
+		border: 2px solid black;
+		width: 92%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
 }
 
 @media screen and (min-width:1024px) {
@@ -2987,4 +2995,11 @@ body {
 	.pbmit-footer-widget-col-1 {
 		padding-left: 44px;
 	}
+}
+
+
+.manyMoreBtn {
+	height: 346px;
+	border: 2px solid black;
+
 }
