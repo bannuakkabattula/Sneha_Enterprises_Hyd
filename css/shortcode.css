@@ -4163,7 +4163,7 @@ blockquote p {
 
 .pbmit-title-bar-wrapper-contact {
 	background-color: var(--pbmit-light-color);
-	background-image: url(../images/bg/contactus.jpg);
+	background-image: url(../images/bg/contact.jpg);
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	background-size: cover;
@@ -6607,7 +6607,8 @@ blockquote p {
 	#about {
 		padding-top: 20px;
 	}
-	.pbmit-sortable-list{
+
+	.pbmit-sortable-list {
 		display: none;
 	}
 }
