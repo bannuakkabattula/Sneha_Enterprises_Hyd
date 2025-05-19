@@ -2768,10 +2768,14 @@ form textarea.form-control {
 }
 
 #wa-widget-send-button {
-    bottom: 70px !important;
-
-    right: 20px !important;
+    top: auto !important;
+    bottom: -30px !important;
+    right: 90px !important;
     left: auto !important;
+}
+
+.wa-chat-box {
+    margin-left: auto;
 }
 
 .wa-chat-box-brand-name {
@@ -2950,9 +2954,9 @@ span.num {
     -webkit-text-stroke: 1px var(--pbmit-blackish-color);
 }
 
-.wa-chat-box {
+/* .wa-chat-box {
     right: 30px !important;
-}
+} */
 
 .title-line {
     width: 13%;
@@ -2979,4 +2983,8 @@ span.num {
     margin-top: 24px;
     display: grid;
     margin-bottom: 10px;
+}
+
+.d-hotline.h-btn {
+    right: 100px !important;
 }
