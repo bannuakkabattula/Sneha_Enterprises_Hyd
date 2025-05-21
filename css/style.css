@@ -2988,3 +2988,7 @@ span.num {
 .d-hotline.h-btn {
     right: 100px !important;
 }
+
+.IN-why-points {
+    list-style: circle;
+}
