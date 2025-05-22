@@ -2769,7 +2769,7 @@ form textarea.form-control {
 
 #wa-widget-send-button {
     top: auto !important;
-    bottom: -30px !important;
+    bottom: -35px !important;
     right: 90px !important;
     left: auto !important;
 }
@@ -2991,4 +2991,12 @@ span.num {
 
 .IN-why-points {
     list-style: circle;
+}
+
+.contactNM {
+    padding-left: 36px;
+}
+
+.contactM {
+    padding-left: 43px;
 }
