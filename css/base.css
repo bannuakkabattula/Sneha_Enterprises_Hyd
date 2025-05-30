@@ -1251,3 +1251,7 @@ ul.pbmit-contact-info {
     z-index: 1;
     color: var(--pbmit-white-color);
 }
+
+#wa-widget-send-button {
+    bottom: 52px !important;
+}
