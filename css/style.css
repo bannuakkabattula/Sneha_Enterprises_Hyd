@@ -159,7 +159,7 @@
 }
 
 .about-one-left-bg {
-    background-image: url(../images/nets-images/about.webp);
+    background-image: url(../images/nets-images/about.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2767,11 +2767,12 @@ form textarea.form-control {
     margin-bottom: 25px;
 }
 
-#wa-widget-send-button {
+#whatsapp-chat-widget #wa-widget-send-button {
     top: auto !important;
-    bottom: 52px !important;
-    right: 16px !important;
+    bottom: 38px !important;
+    right: 20px !important;
     left: auto !important;
+    margin-bottom: 70px !important;
 }
 
 .wa-chat-box {
