@@ -3025,3 +3025,14 @@ span.num {
     width: 10px !important;
     padding: 3px;
 }
+
+@media screen and (max-width:576px) {
+    .IN-why-points {
+        padding: 0px 20px;
+    }
+
+}
+
+.borderRadiusrounded {
+    border-radius: 100% !important;
+}
