@@ -3020,3 +3020,8 @@ span.num {
     right: 1.2rem;
     bottom: 11.5rem;
 }
+
+.pinticon {
+    width: 10px !important;
+    padding: 3px;
+}
